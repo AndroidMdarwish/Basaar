@@ -229,7 +229,7 @@ label:hover{
 table,tr,td,th{
     border: solid #6f526c 1px;
     column-gap: 0px;
-    box-shadow: 3px 3px 2px 1px #6f526cba;
+    box-shadow: 2px 2px 1px 1px #6f526cba;
 }
 
 table .bl tr,.bl td
